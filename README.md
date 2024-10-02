@@ -9,3 +9,7 @@ IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO 
 ## 1. Tests
 
 Fichero ['Preguntas Tests FDMD'](https://github.com/aleon2020/FDMD_2024-2025/blob/main/Preguntas%20Tests%20FDMD.pdf): Dentro de este fichero se encuentran todos y cada uno de los tests realizados por cada tema/módulo que componen este curso.
+
+## 2. Referencias
+
+[ACCESO AL CURSO DE FUNDAMENTOS DE MARKETING DIGITAL](https://skillshop.exceedlms.com/student/collection/807416-digital-marketing?fbclid=PAZXh0bgNhZW0CMTEAAaYW0E_vTqjGRH1zZwYgy6Xw73xkFq0tNK91N7hlmsT8dlIIZNSpYcBj_yU_aem_CcVy_2aHlks5abY_VRUUeQ)
